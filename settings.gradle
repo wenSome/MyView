@@ -1,0 +1,1 @@
+include ':view01_canvasview', ':view02_viewpager'
