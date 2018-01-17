@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         //无限轮播需要的条件1:设置一个比较大的起点
         vp.setCurrentItem(flag);
 
+        //2秒后启动handler
         handler.postDelayed(runnable,2000);
     }
 
