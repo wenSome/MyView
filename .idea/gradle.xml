@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/view01_canvasview" />
             <option value="$PROJECT_DIR$/view02_viewpager" />
+            <option value="$PROJECT_DIR$/view03_ukudemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

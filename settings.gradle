@@ -1,1 +1,1 @@
-include ':view01_canvasview', ':view02_viewpager'
+include ':view01_canvasview', ':view02_viewpager', ':view03_ukudemo'
