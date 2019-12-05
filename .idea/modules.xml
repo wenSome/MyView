@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/view01_canvasview/view01_canvasview.iml" filepath="$PROJECT_DIR$/view01_canvasview/view01_canvasview.iml" />
       <module fileurl="file://$PROJECT_DIR$/view02_viewpager/view02_viewpager.iml" filepath="$PROJECT_DIR$/view02_viewpager/view02_viewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/view03_ukudemo/view03_ukudemo.iml" filepath="$PROJECT_DIR$/view03_ukudemo/view03_ukudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view04_spinnerdemo/view04_spinnerdemo.iml" filepath="$PROJECT_DIR$/view04_spinnerdemo/view04_spinnerdemo.iml" />
     </modules>
   </component>
 </project>
