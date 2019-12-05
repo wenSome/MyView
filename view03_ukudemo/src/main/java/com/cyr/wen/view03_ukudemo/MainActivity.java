@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Animation.RELATIVE_TO_SELF, 1f
         );
 
-        RotateAnimation rcc = new RotateAnimation(
+        RotateAnimation rcd = new RotateAnimation(
                 -180, 0,
                 Animation.RELATIVE_TO_SELF, 0.5f,
                 Animation.RELATIVE_TO_SELF, 1f
