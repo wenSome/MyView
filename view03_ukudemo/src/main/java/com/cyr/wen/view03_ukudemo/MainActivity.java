@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Animation.RELATIVE_TO_SELF, 1f
         );
         RotateAnimation rce1 = new RotateAnimation(
-                -180, 0,
+                -180, 100,
                 Animation.RELATIVE_TO_SELF, 0.5f,
                 Animation.RELATIVE_TO_SELF, 1f
         );
