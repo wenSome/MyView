@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         level2.startAnimation(ra);
 
         //添加更改   View02
-        RotateAnimation rb = new RotateAnimation(
+        RotateAnimation rbb = new RotateAnimation(
                 -180, 0,
                 Animation.RELATIVE_TO_SELF, 0.5f,
                 Animation.RELATIVE_TO_SELF, 1f
