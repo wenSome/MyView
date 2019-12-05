@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Animation.RELATIVE_TO_SELF, 1f
         );
 
-        //11a
+        //11c
 
         //11b
     }
