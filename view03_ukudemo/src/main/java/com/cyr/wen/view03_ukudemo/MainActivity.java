@@ -152,5 +152,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ra.setFillAfter(true);//设置动画结束停留在结束点
 
         level2.startAnimation(ra);
+
+        //添加更改
     }
 }
